@@ -1,0 +1,12 @@
+# Normalise line endings so Windows and macOS/Linux contributors produce identical diffs
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+
+# Binary files
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary

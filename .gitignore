@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Private planning documents — not part of the public repo
+*.docx
+~$*
+Claude outputs/
+
+# Local exports and environments
+*.pdf
+.venv/
+venv/
+Thumbs.db
+
+# Content staged for later weeks — released one week at a time
+_upcoming/
