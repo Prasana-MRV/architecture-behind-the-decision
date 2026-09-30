@@ -8,7 +8,7 @@
 
 | # | Day | Format | Post |
 |---|---|---|---|
-| 1 | Mon | THINK | Twenty years in, my definition of architecture fits in one line |
+| 1 | Mon | THINK | Many years in, my definition of architecture fits in one line |
 | 2 | Tue | DECODE | The 4-question test I use to decide whether something is "architectural" |
 | 3 | Wed | DECIDE | There is no perfect architecture — only the least-wrong one for this context |
 | 4 | Thu | BREAK | I broke a clean three-tier architecture on a whiteboard in seven steps |
