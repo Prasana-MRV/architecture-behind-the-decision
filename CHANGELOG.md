@@ -1,5 +1,11 @@
 # Changelog
 
+## Week 2 — Where Architecture Ends and Design Begins (Posts #6–#10)
+
+### Added
+- `phase-1-architecture-fundamentals/week-02-architecture-vs-design/` — classification sheet (ten Meridian decisions scored on the reversibility test, with answers and re-scoring triggers) and the hidden-coupling checklist.
+- Phase 1 README and root README now list Week 2.
+
 ## Week 1 — Architecture Is the Decisions That Hurt to Change (Posts #1–#5)
 
 ### Added

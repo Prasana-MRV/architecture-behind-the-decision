@@ -7,8 +7,8 @@
 | Week | Theme | Artifacts | ADR |
 |---|---|---|---|
 | [01](week-01-what-is-architecture/) | Architecture Is the Decisions That Hurt to Change | Reversibility test, whiteboard-breaking exercise, Friday answer | [0001](../docs/adr/0001-record-architecture-decisions.md) |
-| 02 | Where Architecture Ends and Design Begins | *Coming next week* | |
-| 03 | The Requirements That Actually Move Architecture | *Coming soon* | |
+| [02](week-02-architecture-vs-design/) | Where Architecture Ends and Design Begins | Classification sheet, hidden-coupling checklist | — |
+| 03 | The Requirements That Actually Move Architecture | *Coming next week* | |
 | 04 | Quality Attributes: Where Architecture Is Really Decided | *Coming soon* | |
 | 05 | Every Gain Sends an Invoice | *Coming soon* | |
 | 06 | How Senior Architects Actually Decide | *Coming soon* | |

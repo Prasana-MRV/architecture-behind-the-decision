@@ -55,6 +55,7 @@ docs/
 phase-1-architecture-fundamentals/  Weeks 1–6, Posts #1–#30
   README.md                       Phase overview and index
   week-01-what-is-architecture/   Reversibility test, whiteboard-breaking exercise, first Meridian challenge
+  week-02-architecture-vs-design/ Classification sheet (10 worked examples), hidden-coupling checklist
 tools/
   decision_cost.py                Reversibility / blast-radius scoring
   check_links.py                  Verifies every relative link in the repo (run in CI)
@@ -71,8 +72,9 @@ A new week's folder is added as each week of the series is published.
 | Week | Theme | Artifacts | ADR |
 |---|---|---|---|
 | 01 | Architecture Is the Decisions That Hurt to Change | Reversibility test, whiteboard-breaking exercise, ADR template, Meridian brief | [0001](docs/adr/0001-record-architecture-decisions.md) |
+| 02 | Where Architecture Ends and Design Begins | Classification sheet (10 worked examples), hidden-coupling checklist | — |
 
-Next: **Week 2 — Where Architecture Ends and Design Begins.**
+Next: **Week 3 — The Requirements That Actually Move Architecture.**
 
 ---
 
