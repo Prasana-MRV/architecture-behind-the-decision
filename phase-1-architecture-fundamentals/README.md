@@ -8,8 +8,8 @@
 |---|---|---|---|
 | [01](week-01-what-is-architecture/) | Architecture Is the Decisions That Hurt to Change | Reversibility test, whiteboard-breaking exercise, Friday answer | [0001](../docs/adr/0001-record-architecture-decisions.md) |
 | [02](week-02-architecture-vs-design/) | Where Architecture Ends and Design Begins | Classification sheet, hidden-coupling checklist | — |
-| 03 | The Requirements That Actually Move Architecture | *Coming next week* | |
-| 04 | Quality Attributes: Where Architecture Is Really Decided | *Coming soon* | |
+| [03](week-03-requirements-that-move-architecture/) | The Requirements That Actually Move Architecture | ASR extraction template, worked Meridian payments example | — |
+| 04 | Quality Attributes: Where Architecture Is Really Decided | *Coming next week* | |
 | 05 | Every Gain Sends an Invoice | *Coming soon* | |
 | 06 | How Senior Architects Actually Decide | *Coming soon* | |
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## Week 3 — The Requirements That Actually Move Architecture (Posts #11–#15)
+
+### Added
+- `phase-1-architecture-fundamentals/week-03-requirements-that-move-architecture/` — ASR extraction template (five filters, six questions for the unwritten requirements, measurable-ASR format, record fields) and the worked Meridian payments example (300 requirements reduced to 9 ASRs, with the throughput and latency-budget arithmetic).
+- Phase 1 README and root README now list Week 3.
+
 ## Week 2 — Where Architecture Ends and Design Begins (Posts #6–#10)
 
 ### Added
